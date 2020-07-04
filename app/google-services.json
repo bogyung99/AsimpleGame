@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791632811114",
+    "firebase_url": "https://mobileapp-e2b90.firebaseio.com",
+    "project_id": "mobileapp-e2b90",
+    "storage_bucket": "mobileapp-e2b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791632811114:android:a2a1156396b65b4458a613",
+        "android_client_info": {
+          "package_name": "hitesh.asimplegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791632811114-lr16t923db640etj0977lkjpu20gf0qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hitesh.asimplegame",
+            "certificate_hash": "92de7e77ea15b9b66368818995ca04a93ec04d33"
+          }
+        },
+        {
+          "client_id": "791632811114-jo96ktoihulda77e7lr1bluoiamiqjv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9PZQBPtI_QttPhPDr6OcLEN4N1aeitaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791632811114-jo96ktoihulda77e7lr1bluoiamiqjv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
